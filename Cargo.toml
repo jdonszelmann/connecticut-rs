@@ -1,0 +1,13 @@
+
+[package]
+name = "Connecticut" # the name of the package
+version = "0.1.0"    # the current version, obeying semver
+authors = ["Ischa Abraham <maupie42@gmail.com>", "Jonathan Donszelmann <j.b.donszelmann@student.tudelft.nl>"]
+
+
+[dependencies]
+
+
+[features]
+default = ["with_cargo"]
+with_cargo = []

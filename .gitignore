@@ -1,0 +1,9 @@
+target/
+*.lock
+*.bin
+*.o
+
+main.rs
+!src/main.rs
+.viminfo
+*.swp
